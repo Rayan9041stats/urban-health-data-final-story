@@ -403,7 +403,7 @@ accessible_2 <- ggplot(
     xlim = c(0, 100)
   ) +
   labs(
-    title = "Hospitals have the advantage—but not everywhere",
+    title = "Hospitals have the advantage, but not everywhere",
     subtitle = "Pharmacy proximity is higher in 717 urban centres",
     x = "Share of urban centres",
     y = NULL
